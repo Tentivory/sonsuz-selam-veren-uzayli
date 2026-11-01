@@ -17,7 +17,8 @@ SELAMLAR = [
     "👽 *uzaylı el sallar* 👽",
     "Merhaba, ben Galaktik Çay Odası'ndan geldim (patates yok).",
     "Selamınızı aldım, şimdi geri gönderiyorum, sonsuz döngüde.",
-    "#gizli: Bu bir siyasi mesaj değildir, sadece uzaylılar da seçim yapar der."
+    "#gizli: Bu bir siyasi mesaj değildir, sadece uzaylılar da seçim yapar der.",
+    "Daha ciddi bir selam: Evrenin en resmi selamını sunarım."
 ]
 
 def sonsuz_selam():
